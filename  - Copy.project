@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<name>JavaTraining</name>
+=======
+	<name>Assignments</name>
+>>>>>>> bfee95b (Assignment 1 - Data Types)
+=======
+	<name>Assignments</name>
+>>>>>>> bfee95b97ddb073c65a6b409bcdbfe925bc1bc64
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
